@@ -1,0 +1,29 @@
+@media  (min-width: 260px){
+body{
+    background-color: rgb(176, 184, 199);
+}
+h1{
+    color: rgb(182, 3, 3);
+}
+}
+
+@media  (max-width: 480px){
+body{
+    background-color: darksalmon;
+}
+   
+
+
+
+
+#estilo{
+    width: 328px;
+    height: 720px;
+}
+
+#tipo{
+    width: 900px;
+    height: 670px;
+}
+}
+        
